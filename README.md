@@ -17,4 +17,4 @@ Failure to provide appropriate citation will be regarded as **academic misconduc
 
 You can download the dataset from the following link:
 
-👉 [Graph_RadioML2018.01A Dataset (via Beihang University Pan)](ttps://bhpan.buaa.edu.cn/link/AA6182DE7AAE904FE48BE058B9A75379D3)
+👉 [Graph_RadioML2018.01A Dataset (via Beihang University Cloud Disk)](ttps://bhpan.buaa.edu.cn/link/AA6182DE7AAE904FE48BE058B9A75379D3)
