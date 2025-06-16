@@ -1,4 +1,16 @@
 # Gragh_RadioML2018.01A
+## Dataset Description
+
+This dataset is derived from **RadioML2018.01A** and introduces a novel method for constructing graph-domain structured data:
+
+1. **Gradient-Based Structural Mapping**  
+   Construct the graph topology based on gradient variations of signal time-domain features, preserving both local abrupt changes and global spatiotemporal trends.
+2. **Graph Structure Transformation**  
+   Convert raw signal samples into graph-structured data with **four-dimensional node features**, where each node represents a characteristic point of the signal.
+3. **Edge Feature Computation**  
+   Dynamically quantify the interaction strength between nodes using a **fuzzy data field force** model. This model integrates electromagnetic potential field functions with fuzzy logic, replacing the traditional binary adjacency matrix.
+
+
 ## 📄 Copyright Notice and Terms of Use for Dataset by Haobo Geng, Beihang University
 
 ### 🛡️ Copyright Ownership
