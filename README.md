@@ -11,15 +11,15 @@ This dataset is derived from **RadioML2018.01A** and introduces a novel method f
    Dynamically quantify the interaction strength between nodes using a **node interaction force driven by data radiation field** model. This model integrates electromagnetic potential field functions with fuzzy logic, replacing the traditional binary adjacency matrix.
 
 
-## 📄 Copyright Notice and Terms of Use for Dataset by Haobo Geng, Beihang University
+## 📄 Copyright Notice and Terms of Use for Dataset by XXX, XX
 
 ### 🛡️ Copyright Ownership
-The dataset (**Graph_RadioML2018.01A**) was independently created by **Haobo Geng** of **Beihang University (BUAA)** and collaborating teams. All copyrights and intellectual property rights belong to **Beihang University** and the authors.
+The dataset (**Graph_RadioML2018.01A**) was independently created by **XXX** of **XX** and collaborating teams.
 
 ### 📚 Citation Requirement
 Any **public use** of this dataset — including but not limited to academic research, commercial applications, and competitions — **must properly cite** the following paper:
 
-> Geng, H., Author2, Author3. *"Paper Title"*. Journal/Conference Name, Year. DOI: ______
+> XXX., Author2, Author3. *"Paper Title"*. Journal/Conference Name, Year. DOI: ______
 
 Failure to provide appropriate citation will be regarded as **academic misconduct**.
 
